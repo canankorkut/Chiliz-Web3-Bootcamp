@@ -1,1 +1,1 @@
-# Chiliz-Web3-Bootcamp-Final-Project
+# Chiliz-Web3-Bootcamp
